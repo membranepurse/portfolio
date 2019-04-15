@@ -161,9 +161,9 @@ nav a {
 }
 
 .navbar {
-	border-bottom: 2px solid black;
+	/* border-bottom: 2px solid black; */
 	/* background-color: #141414; */
-  /* background: transparent; */
+  background: transparent;
   height: 80px;
   max-height: 94px;
   margin: 0;
